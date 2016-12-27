@@ -1,0 +1,35 @@
+﻿[
+	{
+		"category":"私营企业",
+		"name":"杭州易网灵杰科技有限公司",
+		"url":"http://www.eoner.com/",
+		"image":"images/eoner.png",
+		"time":"2015年7月-2016年1月",
+		"posts":"技术副总",
+		"reportto":"总经理",
+		"peoples":"30",
+		"projects":"商企通视讯服务平台等"
+	},
+	{
+		"category":"民营企业",
+		"name":"浙江珍诚医药股份有限公司",
+		"url":"http://www.zc511.net/",
+		"image":"images/zc511.png",
+		"time":"2016年-2017年",
+		"posts":"技术总监",
+		"reportto":"总经理",
+		"peoples":"30",
+		"projects":"客户B2C项目手机版、业务员管理系统等"
+	},
+	{
+		"category":"私营企业",
+		"name":"睿眼通（上海）信息科技有限公司",
+		"url":"http://www.ruiyantong.com/",
+		"image":"images/ruiyantong.png",
+		"time":"2015年1月-2015年6月",
+		"posts":"技术总监",
+		"reportto":"总经理",
+		"peoples":"2",
+		"projects":"zhengjiaotong.com、政教通App等"
+	}
+]

@@ -1,0 +1,38 @@
+﻿[
+	{
+		"category":"规范",
+		"name":"HTML4、HTML5、ES5、ES6、CommonJS、CMD、AMD等",
+		"time":"使用时间：1.5年",
+		"level":"精通程度：了解"
+	},
+	{
+		"category":"框架",
+		"name":"Jquery、Zepto、AngularJs、Recat、Avalon等",
+		"time":"使用时间：1年",
+		"level":"精通程度：熟悉"
+	},
+	{
+		"category":"框架",
+		"name":"Mui、Yo、Ionic等",
+		"time":"使用时间：1年",
+		"level":"精通程度：了解"
+	},
+	{
+		"category":"类库",
+		"name":"Swiper、Iscroll等",
+		"time":"使用时间：1.5年",
+		"level":"精通程度：熟悉"
+	},
+	{
+		"category":"插件",
+		"name":"Jquery menu plugin、Jquery nav plugin、zepto emoji-expression-plugin等",
+		"time":"使用时间：1.5年",
+		"level":"精通程度：熟悉"
+	},
+	{
+		"category":"布局",
+		"name":"Fixed、Fulid、Flex、Responsive",
+		"time":"使用时间：1.5年",
+		"level":"精通程度：精通"
+	}
+]
