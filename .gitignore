@@ -1,3 +1,5 @@
 node_modules/
 www/
 *.DS_Store
+src/styles/index.scss
+src/styles/index.scss

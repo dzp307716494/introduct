@@ -48,7 +48,6 @@ $('.footer-btn').tap(function(){
 		$('#mainContainer').css('backgroundImage',"url(../images/blue.jpg)");
 		$('#scroller').show();
 		scroll();
-		myScroll.refresh();
 	}
 	
 	
@@ -75,6 +74,7 @@ $('.footer-btn').tap(function(){
 			}
 			$('#scroll').find('ul').html(string);
 			scroll();
+			myScroll.refresh();
 		})
 		
 	}
@@ -89,6 +89,7 @@ $('.footer-btn').tap(function(){
 			
 			$('#scroll').find('ul').html(string);
 			scroll();
+			myScroll.refresh();
 		})
 	}
 	
