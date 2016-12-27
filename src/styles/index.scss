@@ -283,6 +283,15 @@ li{
     	border-bottom: 1px solid #ccc;
     	font-size: 14px;
     	display: flex;
+    	p{
+    	    line-height: 14px;
+    	}
+    }
+    .skill div:first-child{
+        width: 50px;
+        height: 50px;
+         margin-right: 10px;
+        margin-top: 10px;
     }
     img{
         width: 50px;
@@ -317,7 +326,7 @@ li{
     
     .banner img{
         width: 100%;
-        height: auto;
+        height: 140px;
     }
 } 
 

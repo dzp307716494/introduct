@@ -56,7 +56,7 @@ $('.footer-btn').tap(function(){
 		$.post('http://localhost:8000/'+sid,function(data){
 			var num=data.length,string='';
 			for(var i=0;i<num;i++){
-				string+='<li class="skill"><img src="./images/'+i+'.jpg"/><div><p>'+data[i].category+'</p><p>'+data[i].name+'</p><p>'+data[i].time+'</p><p>'+data[i].level+'</p></div></li>'
+				string+='<li class="skill"><div><img src="./images/'+i+'.jpg"/></div><div><p>'+data[i].category+'</p><p>'+data[i].name+'</p><p>'+data[i].time+'</p><p>'+data[i].level+'</p></div></li>'
 			}
 			$('#scroll').find('ul').html(string);
 			scroll();
@@ -70,7 +70,7 @@ $('.footer-btn').tap(function(){
 		$.post('http://localhost:8000/'+sid,function(data){
 			var num=data.length,string='';
 			for(var i=0;i<num;i++){
-				string+='<li class="work"><img src="./images/trig.svg"/><div><p>'+data[i].time+'</p><p>'+data[i].name+'</p></div></li>'	
+				string+='<li class="work"><div><img src="./images/trig.svg"/></div><div><p>'+data[i].time+'</p><p>'+data[i].name+'</p></div></li>'	
 			}
 			$('#scroll').find('ul').html(string);
 			scroll();
